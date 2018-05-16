@@ -1,0 +1,17 @@
+Package: lwc
+Priority: 
+Section: 
+Installed-Size: 1306
+Maintainer: Tim De Pauw <hi@tmdpw.eu>
+Architecture: i386
+Version: 0.4.5
+Filename: pool/main/l/lwc/lwc-0.4.5-linux-386.deb
+Size: 589848
+MD5sum: f2b91ba76f1d0f1a79812bb3b9bd0996
+SHA1: e038ebbddc4dad3bb3decd32356cf8e49534f617
+SHA256: 880391f141ddae4c1b2c7e1d80b885c31f9dccc94b5500371f82809857bbce03
+SHA512: c9de01a46666f2ddeb787487e136976dcafb8aabeffd5c598a7cbbf13e582f50491aeaeebcefb210faa505c7546d42c1462f6ad000cdb205b0ede76c26fcfc7b
+Description: A live-updating version of the UNIX wc command.
+Vendor: 
+Homepage: https://github.com/timdp/lwc
+

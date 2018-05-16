@@ -1,0 +1,17 @@
+Package: lwc
+Priority: 
+Section: 
+Installed-Size: 1492
+Maintainer: Tim De Pauw <hi@tmdpw.eu>
+Architecture: arm64
+Version: 0.4.5
+Filename: pool/main/l/lwc/lwc-0.4.5-linux-arm64.deb
+Size: 570502
+MD5sum: f0f58043243b866a24b72396885f9d1b
+SHA1: 0c7ce91b13298a8dfcc12fa15a03c202ab43ae35
+SHA256: 843b66a518d7ab64be5e1608542eaa4278cc453f4cb50a35ed736dd7aa92215b
+SHA512: 74a9f186d177ea1531633d8fdca9497aa1303d74ba535187788090da10dcddbc8be8eafa3c2ec48fb8c6055e2507e700629e2663add3cb2f5699c1928fe16d27
+Description: A live-updating version of the UNIX wc command.
+Vendor: 
+Homepage: https://github.com/timdp/lwc
+
